@@ -1,0 +1,308 @@
+src/main/java/com/onpassive/user/SbUserApiApplication.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/SbUserApiApplication.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/SbUserApiApplication.java:14:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/SbUserApiApplication.java:14:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/SbUserApiApplication.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/SbUserApiApplication.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/SbUserApiApplication.java:21:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/onpassive/user/SbUserApiApplication.java:21:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/onpassive/user/SbUserApiApplication.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/SbUserApiApplication.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/HomeController.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/controller/HomeController.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/controller/HomeController.java:7:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/controller/HomeController.java:7:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/controller/HomeController.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/HomeController.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/controller/UserRestController.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/controller/UserRestController.java:20:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:20:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/onpassive/user/controller/UserRestController.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/onpassive/user/controller/UserRestController.java:22:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:22:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:26:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:26:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:32:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:32:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:37:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:37:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:37:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/controller/UserRestController.java:37:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/controller/UserRestController.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:42:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:42:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:42:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/controller/UserRestController.java:42:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/controller/UserRestController.java:47:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:47:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:52:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:52:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/controller/UserRestController.java:52:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:52:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/controller/UserRestController.java:52:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/controller/UserRestController.java:52:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:3:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:3:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:3:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:3:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:5:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:5:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:11:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:11:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:11:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:11:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:21:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:21:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:26:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNameNotFoundException.java:26:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:3:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:3:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:3:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:3:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:5:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:5:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'enableSuppression' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:10:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:11:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:11:	LongVariable: Avoid excessively long variable names like writableStackTrace
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:11:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:11:	MethodArgumentCouldBeFinal: Parameter 'writableStackTrace' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:16:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:21:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:21:	MethodArgumentCouldBeFinal: Parameter 'message' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:26:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/exception/UserNotFoundException.java:26:	MethodArgumentCouldBeFinal: Parameter 'cause' is not assigned and could be declared final
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:12:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:12:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:12:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:12:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:14:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:14:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:15:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:15:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:19:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:19:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:20:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/onpassive/user/handler/CnfExHandler.java:20:	MethodArgumentCouldBeFinal: Parameter 'exception' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:8:	UnusedImports: Avoid unused imports such as 'lombok.AllArgsConstructor'
+src/main/java/com/onpassive/user/model/User.java:8:	UnusedImports: Avoid unused imports such as 'lombok.AllArgsConstructor'
+src/main/java/com/onpassive/user/model/User.java:9:	UnusedImports: Avoid unused imports such as 'lombok.Getter'
+src/main/java/com/onpassive/user/model/User.java:9:	UnusedImports: Avoid unused imports such as 'lombok.Getter'
+src/main/java/com/onpassive/user/model/User.java:10:	UnusedImports: Avoid unused imports such as 'lombok.NoArgsConstructor'
+src/main/java/com/onpassive/user/model/User.java:10:	UnusedImports: Avoid unused imports such as 'lombok.NoArgsConstructor'
+src/main/java/com/onpassive/user/model/User.java:11:	UnusedImports: Avoid unused imports such as 'lombok.Setter'
+src/main/java/com/onpassive/user/model/User.java:11:	UnusedImports: Avoid unused imports such as 'lombok.Setter'
+src/main/java/com/onpassive/user/model/User.java:20:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/model/User.java:20:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/model/User.java:20:	DataClass: The class 'User' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=8)
+src/main/java/com/onpassive/user/model/User.java:20:	DataClass: The class 'User' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=6, WMC=8)
+src/main/java/com/onpassive/user/model/User.java:20:	ShortClassName: Avoid short class names like User
+src/main/java/com/onpassive/user/model/User.java:20:	ShortClassName: Avoid short class names like User
+src/main/java/com/onpassive/user/model/User.java:24:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/User.java:24:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/User.java:26:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/User.java:26:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/User.java:28:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/User.java:28:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/User.java:29:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/model/User.java:29:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/model/User.java:33:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/model/User.java:33:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/model/User.java:33:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:33:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:33:	MethodArgumentCouldBeFinal: Parameter 'uid2' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:33:	MethodArgumentCouldBeFinal: Parameter 'uid2' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:33:	MethodArgumentCouldBeFinal: Parameter 'uname' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:33:	MethodArgumentCouldBeFinal: Parameter 'uname' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:42:	MethodArgumentCouldBeFinal: Parameter 'uid2' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:42:	MethodArgumentCouldBeFinal: Parameter 'uid2' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:48:	MethodArgumentCouldBeFinal: Parameter 'uname' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:48:	MethodArgumentCouldBeFinal: Parameter 'uname' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:54:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/User.java:54:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/UserDto.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/model/UserDto.java:3:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/model/UserDto.java:3:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/model/UserDto.java:3:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/model/UserDto.java:3:	DataClass: The class 'UserDto' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/main/java/com/onpassive/user/model/UserDto.java:3:	DataClass: The class 'UserDto' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/main/java/com/onpassive/user/model/UserDto.java:4:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/UserDto.java:4:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/UserDto.java:5:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/UserDto.java:5:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/model/UserDto.java:9:	MethodArgumentCouldBeFinal: Parameter 'uname' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/UserDto.java:9:	MethodArgumentCouldBeFinal: Parameter 'uname' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/UserDto.java:15:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/onpassive/user/model/UserDto.java:15:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/onpassive/user/repo/UserRepository.java:7:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/repo/UserRepository.java:7:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/service/UserService.java:7:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/service/UserService.java:7:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/service/UserService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'add': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'add': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'update': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:11:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'update': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/service/UserService.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/service/UserService.java:13:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'delete': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:13:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'delete': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:15:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/service/UserService.java:15:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/service/UserService.java:15:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findById': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:15:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findById': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:17:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAll': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:17:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAll': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/user/service/UserService.java:19:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/service/UserService.java:19:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/service/UserService.java:19:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findUname': the method is declared in an interface type
+src/main/java/com/onpassive/user/service/UserService.java:19:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findUname': the method is declared in an interface type
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:17:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:17:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:19:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:19:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:22:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:22:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:28:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:34:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:34:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:34:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:34:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:42:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:42:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:42:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:42:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:43:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'user' (lines '43'-'45').
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:43:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'user' (lines '43'-'45').
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:50:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:50:	PreserveStackTrace: New exception is thrown in catch block, original stack trace may be lost
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:61:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:61:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:61:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:61:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:62:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:62:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:62:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:63:	LocalVariableCouldBeFinal: Local variable 'dto' could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:63:	LocalVariableCouldBeFinal: Local variable 'dto' could be declared final
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:64:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/onpassive/user/serviceImpl/UserServiceImpl.java:64:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/onpassive/webconsumer/RestClient.java:10:	ClassNamingConventions: The utility class name 'RestClient' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/main/java/com/onpassive/webconsumer/RestClient.java:10:	ClassNamingConventions: The utility class name 'RestClient' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/main/java/com/onpassive/webconsumer/RestClient.java:10:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:10:	CommentRequired: Header comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:10:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/onpassive/webconsumer/RestClient.java:10:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/onpassive/webconsumer/RestClient.java:12:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:12:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:13:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:13:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:13:	UnusedPrivateField: Avoid unused private fields such as 'GET_BY_ID'.
+src/main/java/com/onpassive/webconsumer/RestClient.java:13:	UnusedPrivateField: Avoid unused private fields such as 'GET_BY_ID'.
+src/main/java/com/onpassive/webconsumer/RestClient.java:14:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:14:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:14:	UnusedPrivateField: Avoid unused private fields such as 'ADD_DATA'.
+src/main/java/com/onpassive/webconsumer/RestClient.java:14:	UnusedPrivateField: Avoid unused private fields such as 'ADD_DATA'.
+src/main/java/com/onpassive/webconsumer/RestClient.java:16:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the restTemplate field if you want a default access modifier
+src/main/java/com/onpassive/webconsumer/RestClient.java:16:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the restTemplate field if you want a default access modifier
+src/main/java/com/onpassive/webconsumer/RestClient.java:16:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:16:	CommentRequired: Field comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:16:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/onpassive/webconsumer/RestClient.java:16:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/onpassive/webconsumer/RestClient.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:18:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:18:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/onpassive/webconsumer/RestClient.java:22:	LinguisticNaming: Linguistics Antipattern - The getter 'getAllData' should not return void linguistically
+src/main/java/com/onpassive/webconsumer/RestClient.java:22:	LinguisticNaming: Linguistics Antipattern - The getter 'getAllData' should not return void linguistically
+src/main/java/com/onpassive/webconsumer/RestClient.java:24:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:24:	LocalVariableCouldBeFinal: Local variable 'headers' could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:27:	LocalVariableCouldBeFinal: Local variable 'http' could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:27:	LocalVariableCouldBeFinal: Local variable 'http' could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:27:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/onpassive/webconsumer/RestClient.java:27:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/onpassive/webconsumer/RestClient.java:28:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:28:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/main/java/com/onpassive/webconsumer/RestClient.java:30:	SystemPrintln: System.out.println is used
+src/main/java/com/onpassive/webconsumer/RestClient.java:30:	SystemPrintln: System.out.println is used
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:7:	CommentRequired: Header comments are required
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:7:	CommentRequired: Header comments are required
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/onpassive/user/SbUserApiApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body

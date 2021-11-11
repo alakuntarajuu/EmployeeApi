@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+	function getAll() {
+		$.get("/emp/findAll", function(data, status) {
+
+			data.forEach(function(employee, e) {
+				addRow(employee);
+			});
+		});
+	}
+
+	function addRow(employee) {
+		var row = $('<tr/>');
+		row.append($('<td/>').html(employee.eid2));
+		row.append($('<td/>').html(employee.ename));
+		row.append($('<td/>').html(employee.address));
+		row.append($('<td/>').html("<button>Delete</button>"));
+		$("table").append(row);
+	}
+
+	getAll();
+	$(document).ready(
+			function (){
+				$("delete").click(function(){
+				var id=$(this).attr("val");
+				$.ajax({
+		            url: 'users/delete/'+id,
+		            method: 'DELETE',
+		            success: function () {
+		                alert('record has been deleted');
+		                findAll();
+		            },
+		            error: function (error) {
+		                alert(error);
+		            }
+		        })
+				})
+		    }
+				
+				
+				
+				$("#saveBtn").click(
+						function() {
+							var employee = {};
+							
+							employee.ename = $("#ename").val();
+							employee.address = $("#address").val();
+
+							$.ajax({
+								type : "POST",
+								url : "/emp/add",
+								data : JSON.stringify(employee),
+								contentType : "application/json",
+								success : function(resultData) {
+									console.log(resultData);
+									$("#successMsg").html(
+											"Inserted SuccessFully with id : "
+													+ resultData.uid2);
+									addRow(resultData);
+								}
+							});
+
+							console.log(employee);
+						});
+			});
+        
+ 						
+ 	
+
+</script>
+<style type="text/css">
+#successMsg {
+	color: green;
+}
+</style>
+
+</head>
+<body>
+
+	<h1>New Employee page</h1>
+
+	<div id="successMsg"></div>
+	
+	<!-- Eid2 :
+	<input type="text" name="eid2" id="eid2">
+ -->
+	E Name :
+	<input type="text" name="ename" id="ename"> 
+	Address :
+	<input type="text" name="address" id="address">
+	<input type="submit" id="saveBtn">
+	<hr>
+	<h2>Employee Details :</h2><!--<h2>Student Details :</h2>  -->
+	<table>
+		<thead>
+			<tr>
+				 <th>Eid2</th>   
+				<th>E Name</th>
+				<th>Address</th>
+				<th>Operation</th>
+			</tr>
+		</thead>
+	</table>
+
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+	<!-- <script type="text/javascript"> -->
+	// $(document).ready(function(){ // $("#saveBtn").click(function(){ //
+	var user = {}; // user.uname = $("#uname").val(); // user.address =
+	$("#address").val(); // $.ajax({ // type: "POST", // url:
+	"./users/add", // data: JSON.stringify(user), // contentType:
+	"application/json", // success: function(resultData){ //
+	console.log(resultData); // $("#successMsg").html("Inserted
+	SuccessFully with id : "+resultData.uid2); // } // }); // //
+	console.log(user); // }); // });
+
+	<!-- </script> -->
+	<!-- <style type="text/css"> -->
+	/* #successMsg{ */ /* color: green; */ /* } */
+
+	
+
+</body>
+</html>
